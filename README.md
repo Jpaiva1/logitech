@@ -1,1 +1,1 @@
-Logitech G HUB habitually will enter a loading loop. For what reason who knows. This powershell script is designed to stop all realated G HUB services and programs then restarts them in proper order for G HUB to load.
+Logitech G HUB habitually will enter a loading loop. For what reason who knows. This powershell script is designed to stop all related G HUB services and programs then restarts them in proper order for G HUB to load.
